@@ -26,7 +26,6 @@ const App = () =>(
         <CardDeal />
         <Testimonials/>
         <Client/>
-        <FeedbackCard/>
         <CTA/>
         <Footer/>
         
